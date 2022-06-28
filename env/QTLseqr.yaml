@@ -1,0 +1,20 @@
+name: QTLseqr
+
+channels:
+  - default
+  - bioconda
+  - conda-forge
+  - r
+
+dependencies:
+  - r-modeest >= 2.3.2
+  - r-ggplot2 >= 2.2.0
+  - r-gtools
+  - r-dplyr
+  - r-readr
+  - r-tidyr
+  - r-Rcpp
+  - r-locfit
+  - r-knitr
+  - r-rmarkdown
+  - r-kableExtra
