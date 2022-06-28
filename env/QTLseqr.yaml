@@ -1,6 +1,9 @@
 name: QTLseqr
 
 channels:
+  - default
+  - bioconda
+  - conda-forge
   - r
 
 dependencies:
