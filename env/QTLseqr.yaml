@@ -19,3 +19,7 @@ dependencies:
   - r-rmarkdown
   - r-kableExtra
   - r-devtools
+  - r-data.table
+  - r-vcfR
+  - r-optparse
+  
