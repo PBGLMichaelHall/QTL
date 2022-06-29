@@ -22,5 +22,5 @@ dependencies:
   - r-data.table
   - r-vcfR
   - r-optparse
-  - r-base >= 3.3
+  - r-base >= 4.1.0
   
